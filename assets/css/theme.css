@@ -1,6 +1,5 @@
-/* Tema: Papel. Editorial cálido sobre crema, con serif y grano de papel. */
-@font-face{font-family:"Instrument Serif";src:url("../fonts/instrument-serif-latin-400-normal.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+/* Tema: Noche. Oscuro elegante con violeta y grotesca expresiva. */
+@font-face{font-family:"Bricolage Grotesque";src:url("../fonts/bricolage-grotesque-latin-wght-normal.woff2") format("woff2");font-weight:200 800;font-style:normal;font-display:swap}
 @font-face{font-family:"Geist";src:url("../fonts/geist-latin-wght-normal.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
 @font-face{font-family:"Geist Mono";src:url("../fonts/geist-mono-latin-wght-normal.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
-:root{--ff-display:"Instrument Serif", ui-serif, Georgia, serif;--ff-body:"Geist", ui-sans-serif, system-ui, sans-serif;--ff-mono:"Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;--display-tracking:-0.02em;--display-weight:400;--display-case:none;--display-scale:1;--display-leading:0.95;--radius:1rem;--bg:#FAF9F5;--bg-2:#F1EEE6;--ink:#1A1C1C;--ink-2:#3D3F3F;--muted:#5D5F5F;--line:#E2DED3;--accent:#C2410C;--accent-soft:#FBE7DA;--on-accent:#FFFFFF;color-scheme:light}
-:root{--grain:1}
+:root{--ff-display:"Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;--ff-body:"Geist", ui-sans-serif, system-ui, sans-serif;--ff-mono:"Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;--display-tracking:-0.045em;--display-weight:700;--display-case:none;--display-scale:1;--display-leading:0.95;--radius:1.25rem;--bg:#0E0E10;--bg-2:#17171B;--ink:#F2F2F3;--ink-2:#D0D0D6;--muted:#9B9BA6;--line:#26262C;--accent:#9D90FF;--accent-soft:#211D3D;--on-accent:#0E0E10;color-scheme:dark}
